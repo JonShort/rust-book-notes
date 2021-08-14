@@ -1,0 +1,13 @@
+# General catchall ignores (each folder should really have a separate .gitignore file)
+
+# Default build folder
+target/
+
+# Lockfile
+Cargo.lock
+
+# IDE-specific
+.vscode/
+
+# OS-specific
+.DS_Store
